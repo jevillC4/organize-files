@@ -1,0 +1,15 @@
+{
+  "name": "organize-files",
+  "version": "1.0.0",
+  "description": "windows service that is responsible for organizing downloaded files in folders, using time markers to perform the task",
+  "main": "index.js",
+  "author": "Jean Villarreal - javn93c@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "ramda": "^0.27.1"
+  }
+}
